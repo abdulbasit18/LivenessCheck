@@ -1,7 +1,7 @@
 # LivenessCheck
 ![Screenshot](banner.png)
 
-[Liveness Check using MLKit](https://www.linkedin.com/pulse/cordova-native-plugin-development-abdul-basit)
+[Liveness Check using MLKit](https://www.linkedin.com/pulse/liveness-check-using-mlkit-ios-tutorial-abdul-basit/)
 
 # Liveness Detection
 Liveness Detection is an ideal biometric modality for mobile authentication. It is intuitive and adaptable to most mobile devices, with widespread camera integration in commercial devices. It works with a familiar “selfie” pose. However, the widespread availability of digital facial images via social media makes facial biometrics more susceptible to spoofing. For this reason, it is critical to apply robust liveness detection for mobile biometric authentication solutions that use facial recognition.
