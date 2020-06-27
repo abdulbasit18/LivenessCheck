@@ -8,6 +8,9 @@ Liveness Detection is an ideal biometric modality for mobile authentication. It 
 
 In facial recognition, liveness detection role is used distinguish between a live image and a 2D printed, 3D printed, or digital representation of a user’s face. Spoof attempts can be detected through algorithms that recognize artifacts of a non-live sample. Liveness detection methods significantly reduce the effectiveness of spoofing and other presentation attacks.
 
+# ML Kit
+ML Kit is a mobile SDK that brings Google's machine learning expertise to Android and iOS apps in a powerful yet easy-to-use package. Whether you're new or experienced in machine learning, you can implement the functionality you need in just a few lines of code. There's no need to have deep knowledge of neural networks or model optimization to get started. On the other hand, if you are an experienced ML developer, ML Kit provides convenient APIs that help you use your custom TensorFlow Lite models in your mobile apps.
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
