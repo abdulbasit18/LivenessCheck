@@ -177,12 +177,12 @@ SPEC CHECKSUMS:
   FirebaseCoreDiagnosticsInterop: 296e2c5f5314500a850ad0b83e9e7c10b011a850
   FirebaseInstallations: 6f5f680e65dc374397a483c32d1799ba822a395b
   FirebaseInstanceID: cef67c4967c7cecb56ea65d8acbb4834825c587b
-  FirebaseMLCommon: ddb73ec0ad174afd0f3ba292680b5aa8af008520
-  FirebaseMLVision: 0e65f5fe6a0fce6c5cee55205ee698aa29342218
-  FirebaseMLVisionBarcodeModel: 35cfeaa9494d8c6106423a4672055dd8e07ddbc3
-  FirebaseMLVisionFaceModel: 762b3af94fb29a981d76b3ab28cd1f53708f58c5
-  FirebaseMLVisionLabelModel: 3dbf36096c0802bd09167bee09063183d964f4db
-  FirebaseMLVisionTextModel: 2ec9bf2287b29ef2b7d79152aad454cce5bc3040
+  FirebaseMLCommon: 55eeba3404eaf13b24eba55433b1c0d7e23b69f0
+  FirebaseMLVision: 168231e583d424ae003b2202ab09aab9d1b10cbb
+  FirebaseMLVisionBarcodeModel: 62e3dcf160ea8b5bbf1b89884e645bffb5847d3f
+  FirebaseMLVisionFaceModel: 13f05fea219443a222c21523f6e7d13c842cd1e3
+  FirebaseMLVisionLabelModel: 831b1598300f934a64705cfc820bc87e80d236f2
+  FirebaseMLVisionTextModel: 898719c287783682731a23c5e52b501edd29c3b1
   GoogleAPIClientForREST: e50dc3267b3131ee3a25e707c10204f6bec15ae9
   GoogleAppMeasurement: 67458367830514fb20fd9e233496f1eef9d90185
   GoogleDataTransport: 9a8a16f79feffc7f42096743de2a7c4815e84020
@@ -196,4 +196,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: b12230782aa9d83f0870f11f90f6f64b98b003a3
 
-COCOAPODS: 1.9.1
+COCOAPODS: 1.11.3
